@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+Hardware\testfiles\
+Scripts\testfiles\asm\
